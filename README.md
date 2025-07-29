@@ -6,10 +6,8 @@ Es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto, este
 ## Authors
 
 - [@martha](https://www.github.com/martha)
-- [@maria](https://www.github.com/maria)
-- [@monica](https://www.github.com/monica)
 
-
+git reset mamaguli
 
 ## Lessons Learned
 
