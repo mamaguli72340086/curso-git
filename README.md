@@ -7,8 +7,11 @@ Es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto, este
 
 - [@martha](https://www.github.com/martha)
 
-git reset --soft
-git reset --hard
+
+git reset soft
+HEAD
+git reset hard
+b68eba794e52b234972392da97e2f0c7e25ce456gi
 
 ## Lessons Learned
 
