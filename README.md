@@ -10,6 +10,7 @@ Es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto, este
 git reset --soft
 Tarea 5
 Trabajando git stash
+Trabajando git rebase
 
 ## Lessons Learned
 
